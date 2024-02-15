@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cWSlwwkAQsL8x6clOVTYPgtw2cMAB7Ptxhqd4shO73YAxsTHnxGFqCMqj7K8T3pIJ5UpWcM/s352Bwo3I26J3g==",
+  "dgSpecHash": "SaWJbqP0ZYPcMU2BafcDBufl3/GpIYX0ABoy52uOu1+qSrUKaomdtqFto1CorCbxzBGgTLO2TqN8zLfUSJwlXw==",
   "success": true,
-  "projectFilePath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/n-layer-architecture/Park.Business/Park.Business.csproj",
+  "projectFilePath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/Park.Business/Park.Business.csproj",
   "expectedPackageFiles": [
     "/Users/furkandemirel/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "/Users/furkandemirel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

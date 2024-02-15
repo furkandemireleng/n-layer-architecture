@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/furkandemirel/RiderProjects/n-layer-architecture/n-layer-architecture/Park.DataAccess/Park.DataAccess.csproj",
+      "projectUniqueName": "/Users/furkandemirel/RiderProjects/n-layer-architecture/Park.DataAccess/Park.DataAccess.csproj",
       "projectName": "Park.DataAccess",
-      "projectPath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/n-layer-architecture/Park.DataAccess/Park.DataAccess.csproj",
+      "projectPath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/Park.DataAccess/Park.DataAccess.csproj",
       "packagesPath": "/Users/furkandemirel/.nuget/packages/",
-      "outputPath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/n-layer-architecture/Park.DataAccess/obj/",
+      "outputPath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/Park.DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/furkandemirel/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aaz5GIDHmRHCOS3HbAMTOB4tYqcnnBKT3oNhvyGp2sTSSGVnGqQBzqbxE/qG+Ih+t7EMwFAdKSiO6TsyOmazzA==",
+  "dgSpecHash": "iI/mPQrnr743gdYz/vzogDAyStNk6zWtnJ6jrpwbwLD9WHlFmHdXw5LCaDA/er/WCA9qsN2ERgKIKxtKqMiDgg==",
   "success": true,
-  "projectFilePath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/n-layer-architecture/Park.Test/Park.Test.csproj",
+  "projectFilePath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/Park.Test/Park.Test.csproj",
   "expectedPackageFiles": [
     "/Users/furkandemirel/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/furkandemirel/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hY/OTpNQFMgNOrSa1LfPZCnps20j181DYB3J50LQhkt/LomPG3TBKWbQE41gpypOrgzI5IY9sGQbrIUNXe4LKQ==",
+  "dgSpecHash": "EVojP49RO66DvGJeyRVAUkMoXcUQcuUBa/gWtBuHtgGzJ4l1cnqrSLiaiFU/ISEVQYiPs6vRRgoY6Iy7Up/QAQ==",
   "success": true,
-  "projectFilePath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/n-layer-architecture/Park.API/Park.API.csproj",
+  "projectFilePath": "/Users/furkandemirel/RiderProjects/n-layer-architecture/Park.API/Park.API.csproj",
   "expectedPackageFiles": [
     "/Users/furkandemirel/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "/Users/furkandemirel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
